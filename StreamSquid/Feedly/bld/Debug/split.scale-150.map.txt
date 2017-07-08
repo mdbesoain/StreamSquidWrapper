@@ -1,0 +1,15 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-150"
+"ResourceDimensions"		"scale-150"
+
+[Files]
+"C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\split.scale-150.pri"			"resources.pri"
+"C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\PackageLayout\images\logo.scale-150.png"			"images\logo.scale-150.png"
+"C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\PackageLayout\Assets\Wide\Wide310x150Logo.scale-150.png"			"Assets\Wide\Wide310x150Logo.scale-150.png"
+"C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\PackageLayout\Assets\Store\StoreLogo.scale-150.png"			"Assets\Store\StoreLogo.scale-150.png"
+"C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\PackageLayout\Assets\SplashScreen.scale-150.png"			"Assets\SplashScreen.scale-150.png"
+"C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\PackageLayout\Assets\SplashScreen\SplashScreen.scale-150.png"			"Assets\SplashScreen\SplashScreen.scale-150.png"
+"C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\PackageLayout\Assets\Small\Small71x71Logo.scale-150.png"			"Assets\Small\Small71x71Logo.scale-150.png"
+"C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\PackageLayout\Assets\Medium\Medium150x150Logo.scale-150.png"			"Assets\Medium\Medium150x150Logo.scale-150.png"
+"C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\PackageLayout\Assets\Large\Large310x310Logo.scale-150.png"			"Assets\Large\Large310x310Logo.scale-150.png"
+"C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\PackageLayout\Assets\AppList\AppList.scale-150.png"			"Assets\AppList\AppList.scale-150.png"

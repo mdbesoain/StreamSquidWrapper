@@ -1,0 +1,16 @@
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bin\Debug\AppxManifest.xml
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bin\Debug\Feedly.build.appxrecipe
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\ResourceHandlingTask.state
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\priconfig.xml
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\priconfig.xml.intermediate
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\layout.resfiles
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\layout.resfiles.intermediate
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\resources.resfiles
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\resources.resfiles.intermediate
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\pri.resfiles
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\pri.resfiles.intermediate
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\qualifiers.txt
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\qualifiers.txt.intermediate
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\ProjectArchitectures.txt
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bin\Debug\ReverseMap\resources.pri

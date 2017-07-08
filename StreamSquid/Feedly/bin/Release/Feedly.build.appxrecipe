@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MDBESOAIN-PC</Machine>
+    <WindowsUser>mdbesoain</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6bb68709-d580-491b-8c7e-eb23622d8375</PackageIdentityName>
+    <PackageIdentityPublisher>CN=mdbesoain</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.scale-100.png">
+      <PackagePath>Assets\AppList\AppList.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.scale-125.png">
+      <PackagePath>Assets\AppList\AppList.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.scale-150.png">
+      <PackagePath>Assets\AppList\AppList.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.scale-200.png">
+      <PackagePath>Assets\AppList\AppList.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.scale-400.png">
+      <PackagePath>Assets\AppList\AppList.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-16.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-16_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-16_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-20.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-20.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-20_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-20_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-24.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-256_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-256_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-30.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-30_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-30_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-32.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-32_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-32_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-36.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-36.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-36_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-36_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-40.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-40.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-40_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-40_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-48.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-48_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-48_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-60.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-60.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-60_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-60_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-64.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-64.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-64_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-64_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-72.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-72.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-72_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-72_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-80.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-80_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-80_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-96.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-96.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\AppList\AppList.targetsize-96_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-96_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Large\Large310x310Logo.scale-100.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Large\Large310x310Logo.scale-125.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Large\Large310x310Logo.scale-150.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Large\Large310x310Logo.scale-200.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Large\Large310x310Logo.scale-400.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Medium\Medium150x150Logo.scale-100.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Medium\Medium150x150Logo.scale-125.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Medium\Medium150x150Logo.scale-150.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Medium\Medium150x150Logo.scale-200.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Medium\Medium150x150Logo.scale-400.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Small\Small71x71Logo.scale-100.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Small\Small71x71Logo.scale-125.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Small\Small71x71Logo.scale-150.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Small\Small71x71Logo.scale-200.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Small\Small71x71Logo.scale-400.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\SplashScreen\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\SplashScreen\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\SplashScreen\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\SplashScreen\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\SplashScreen\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Store\StoreLogo.scale-100.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Store\StoreLogo.scale-125.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Store\StoreLogo.scale-150.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Store\StoreLogo.scale-200.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Store\StoreLogo.scale-400.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Wide\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Wide\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Wide\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Wide\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\Assets\Wide\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\images\logo.scale-125.png">
+      <PackagePath>images\logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\images\logo.scale-150.png">
+      <PackagePath>images\logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\images\logo.scale-200.png">
+      <PackagePath>images\logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\images\logo.scale-400.png">
+      <PackagePath>images\logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
